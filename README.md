@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Here are some stats about me using github.
+
+[![ashishhk's GitHub | Stats](https://stats.quine.sh/ashishhk/github?theme=light)](https://quine.sh)
+[![ashishhk's GitHub | Languages Over Time](https://stats.quine.sh/ashishhk/languages-over-time?theme=light)](https://quine.sh)
+[![ashishhk's GitHub | Topics Over Time](https://stats.quine.sh/ashishhk/topics-over-time?theme=light)](https://quine.sh)
+
+
 <!--
 **ashishhk/ashishhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
